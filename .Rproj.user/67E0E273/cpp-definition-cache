@@ -1,0 +1,17 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "F:/USTC/2020autumn/statcompute/StatComp20006/src/StatCompC.cpp",
+                "kind" : 6,
+                "line" : 18,
+                "name" : "rwMetropolisC(int, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@rwMetropolisC#I#d#d#"
+            }
+        ],
+        "file" : "F:/USTC/2020autumn/statcompute/StatComp20006/src/StatCompC.cpp",
+        "file_last_write" : 1607603605
+    }
+]
