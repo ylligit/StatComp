@@ -1580,7 +1580,7 @@ The image of qqplot is close to the diagonal line, which suggets that the random
 ##My two functions
 
 ##Function 1
-Use function knn.dist() in package FNN to write a density estimate function
+Use function knn.dist() in package FNN to write a kth nearest neighbor density estimate function.
 
 ```{r,echo=FALSE}
 knn.est <- function(x, k, xrange, yrange){

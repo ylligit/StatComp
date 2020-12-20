@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1607694968765.000,
+    "created" : 1608432309223.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "F40EB329",
-    "lastKnownWriteTime" : 1608217203,
-    "last_content_update" : 1608217203074,
+    "id" : "CEA70061",
+    "lastKnownWriteTime" : 1608432451,
+    "last_content_update" : 1608432451213,
     "path" : "F:/USTC/2020autumn/statcompute/StatComp20006/R/StatCompR.R",
     "project_path" : "R/StatCompR.R",
     "properties" : {
-        "cursorPosition" : "724,22",
-        "scrollLine" : "0"
+        "cursorPosition" : "695,29",
+        "scrollLine" : "687"
     },
-    "relative_order" : 3,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

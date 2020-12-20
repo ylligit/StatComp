@@ -686,10 +686,9 @@ Mardia<-function(mydata){
   as.integer(test>chi)
 }
 
-#' @title Use function knn.dist() in package FNN
-#' to write a density estimate function
+#' @title the kth nearest neighbor density estimate function.
 #' @description Use function knn.dist() in package FNN
-#' to write a density estimate function
+#' to write a kth nearest neighbor density estimate function.
 #' @param x an input data matrix
 #' @param k the maximum number of nearest neighbors to search.
 #' @param xrange the range of x sample

@@ -2,8 +2,7 @@
 % Please edit documentation in R/StatCompR.R
 \name{knn.est}
 \alias{knn.est}
-\title{Use function knn.dist() in package FNN
-to write a density estimate function}
+\title{the kth nearest neighbor density estimate function.}
 \usage{
 knn.est(x, k, xrange, yrange)
 }
@@ -21,7 +20,7 @@ a matrix contains the value of estimation
 }
 \description{
 Use function knn.dist() in package FNN
-to write a density estimate function
+to write a kth nearest neighbor density estimate function.
 }
 \examples{
 \dontrun{
